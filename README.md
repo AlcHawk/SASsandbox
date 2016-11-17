@@ -1,18 +1,18 @@
-# SASsandbox
+# SAS Simple Tutorial
 
 - Lesson_1
-  - assignment
+  - assignments
 - Lesson_2
-  - assignment
+  - assignments
 - Lesson_3
-  - assignment
+  - assignments
 - Lesson_4
-  - assignment
+  - assignments
 - Lesson_5
-  - assignment
+  - assignments
 - Lesson_6
-  - assignment
+  - assignments
 - Lesson_7
-  - assignment
+  - assignments
 - Lesson_8
   - final exam
